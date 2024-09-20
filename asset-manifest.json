@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Aveline4/static/css/main.32013125.css",
+    "main.js": "/Aveline4/static/js/main.fe0068a0.js",
+    "static/media/14.jpg": "/Aveline4/static/media/14.a49d6d3f737c73415908.jpg",
+    "static/media/logo.jpg": "/Aveline4/static/media/logo.6a405f5d130e3869b61a.jpg",
+    "static/media/banner-2.jpg": "/Aveline4/static/media/banner-2.b3092704c29b47c85d65.jpg",
+    "static/media/banner-1.jpg": "/Aveline4/static/media/banner-1.cfeba525561ff2e803bb.jpg",
+    "static/media/1.jpg": "/Aveline4/static/media/1.60fd1b24cee2849ce44b.jpg",
+    "static/media/banner-3.jpg": "/Aveline4/static/media/banner-3.d90f050178987f8c6ccc.jpg",
+    "static/media/jacket-2.jpg": "/Aveline4/static/media/jacket-2.1abdc5041c588a1c9309.jpg",
+    "static/media/shampoo.jpg": "/Aveline4/static/media/shampoo.e7dc678a17a611e75ebd.jpg",
+    "static/media/jacket-1.jpg": "/Aveline4/static/media/jacket-1.033661cf8d44abec754e.jpg",
+    "static/media/clothes-2.jpg": "/Aveline4/static/media/clothes-2.9ec475ca2527fef4d7c2.jpg",
+    "static/media/2.jpg": "/Aveline4/static/media/2.ba11518b56a67750cca8.jpg",
+    "static/media/3.jpg": "/Aveline4/static/media/3.b2f958dc41647c7880a4.jpg",
+    "static/media/4.jpg": "/Aveline4/static/media/4.952c9da66564e87b529f.jpg",
+    "static/media/clothes-1.jpg": "/Aveline4/static/media/clothes-1.f07abfce046063e26c53.jpg",
+    "static/media/logo.png": "/Aveline4/static/media/logo.4e198066b7df20d10867.png",
+    "static/media/banner-bg.jpg": "/Aveline4/static/media/banner-bg.f588b29145939c559001.jpg",
+    "static/media/avatar.png": "/Aveline4/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/redux.cjs": "/Aveline4/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/watch.svg": "/Aveline4/static/media/watch.ffc6ea8ebdd373b66a6293632ac2d4df.svg",
+    "static/media/coat.svg": "/Aveline4/static/media/coat.c91e5c0a15af91b1e158763c52a9ad9c.svg",
+    "static/media/dress.svg": "/Aveline4/static/media/dress.a985666189e70aeab8dc9c5c7383b59b.svg",
+    "static/media/hat.svg": "/Aveline4/static/media/hat.3ee63347abcc7ccdc60e78bd5151a5e0.svg",
+    "static/media/shorts.svg": "/Aveline4/static/media/shorts.cf7b21b5c6d2b6faa63b8643be344808.svg",
+    "static/media/glasses.svg": "/Aveline4/static/media/glasses.b29a70795f26731314c45ac08ef76b7c.svg",
+    "static/media/slick.svg": "/Aveline4/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Aveline4/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/jacket.svg": "/Aveline4/static/media/jacket.4a68dc75e9584526b792040f19cd4493.svg",
+    "static/media/slick.ttf": "/Aveline4/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/tee.svg": "/Aveline4/static/media/tee.c25e52c3bae4106a406b7a0d448ea3cb.svg",
+    "static/media/slick.woff": "/Aveline4/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Aveline4/index.html",
+    "main.32013125.css.map": "/Aveline4/static/css/main.32013125.css.map",
+    "main.fe0068a0.js.map": "/Aveline4/static/js/main.fe0068a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32013125.css",
+    "static/js/main.fe0068a0.js"
+  ]
+}
